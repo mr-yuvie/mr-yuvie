@@ -129,7 +129,7 @@ Status         : [ONLINE] Teaching, researching cryptanalysis, and building resi
       </p>
       <div align="center">
         <a href="https://github.com/mr-yuvie/Hackline">
-          <img src="https://img.shields.io/badge/Inspect_Repo-%E2%86%92-181717?style=for-the-badge&logo=github" alt="View Repo" />
+          <img src="https://img.shields.io/badge/View_Repo-%E2%86%92-181717?style=for-the-badge&logo=github" alt="View Repo" />
         </a>
       </div>
     </td>
@@ -154,8 +154,8 @@ Status         : [ONLINE] Teaching, researching cryptanalysis, and building resi
         <img src="https://img.shields.io/badge/Supabase-Realtime-3ECF8E?style=flat-square&logo=supabase" />
       </p>
       <div align="center">
-        <a href="https://github.com/Naman-Goel-07/HarTimeError-Apex">
-          <img src="https://img.shields.io/badge/Inspect_Repo-%E2%86%92-181717?style=for-the-badge&logo=github" alt="View Repo" />
+        <a href="https://github.com/mr-yuvie/HarTimeError-Apex">
+          <img src="https://img.shields.io/badge/View_Repo-%E2%86%92-181717?style=for-the-badge&logo=github" alt="View Repo" />
         </a>
       </div>
     </td>
@@ -183,11 +183,8 @@ Status         : [ONLINE] Teaching, researching cryptanalysis, and building resi
         <img src="https://img.shields.io/badge/Supabase_RLS-Postgres-3ECF8E?style=flat-square&logo=supabase" />
       </p>
       <div align="center">
-        <a href="https://finmentor-eight.vercel.app/">
-          <img src="https://img.shields.io/badge/Live_App-%E2%86%92-00C781?style=for-the-badge&logo=vercel" alt="Live Demo" />
-        </a>
-        <a href="https://github.com/Naman-Goel-07/finmentor">
-          <img src="https://img.shields.io/badge/Repo-%E2%86%92-181717?style=for-the-badge&logo=github" alt="View Repo" />
+        <a href="https://github.com/mr-yuvie/finmentor">
+          <img src="https://img.shields.io/badge/View_Repo-%E2%86%92-181717?style=for-the-badge&logo=github" alt="View Repo" />
         </a>
       </div>
     </td>
@@ -212,11 +209,8 @@ Status         : [ONLINE] Teaching, researching cryptanalysis, and building resi
         <img src="https://img.shields.io/badge/Zod-Strict_Typing-3068B7?style=flat-square&logo=zod" />
       </p>
       <div align="center">
-        <a href="https://t.me/VoterMitrabot">
-          <img src="https://img.shields.io/badge/Telegram_Bot-%E2%86%92-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram Bot" />
-        </a>
         <a href="https://github.com/mr-yuvie/VoterMitra">
-          <img src="https://img.shields.io/badge/Repo-%E2%86%92-181717?style=for-the-badge&logo=github" alt="View Repo" />
+          <img src="https://img.shields.io/badge/View_Repo-%E2%86%92-181717?style=for-the-badge&logo=github" alt="View Repo" />
         </a>
       </div>
     </td>
